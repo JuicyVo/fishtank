@@ -1,6 +1,6 @@
-const header = () => {
+const Header = () => {
   return (
-    <header className="flex items-center justify-between px-4 py-2 bg-blue-500 text-white">
+    <header className="flex items-center justify-between px-4 py-2 bg-blue-500 text-white w-full">
       <h1 className="text-2xl font-bold">Fishtank</h1>
       <div className="flex items-center">
         <input
@@ -14,4 +14,4 @@ const header = () => {
   );
 };
 
-export default header;
+export default Header;
