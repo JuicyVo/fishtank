@@ -9,9 +9,9 @@ const PlantsDecorPage: React.FC = () => {
       <Header />
       <div className="mb-6"></div> 
       <NavigationBar />
-      <div className="mb-6"></div> 
+      <div className="mb-6"></div>
       <main className="flex flex-col items-center justify-center py-20 bg-gray-200 text-gray-800 min-h-screen">
-        <h1 className="text-3xl font-bold mb-8">Plants & Decor</h1>
+        <h1 className="text-3xl font-bold mb-8">Aquascapes</h1>
         <div className="grid grid-cols-2 gap-8 max-w-3xl">
           <div className="bg-white shadow-md p-6 rounded-lg">
             <h2 className="text-xl font-semibold mb-2">Hardscape</h2>

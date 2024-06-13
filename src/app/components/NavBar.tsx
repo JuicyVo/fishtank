@@ -8,6 +8,7 @@ const NavigationBar = () => {
         <li><Link href="/test">Fish</Link></li>
         <li><Link href="/plants-decor">Plants & Decor</Link></li>
         <li><Link href="/aquascapes">Aquascapes</Link></li>
+        <li><Link href="/planner">Planner</Link></li>
       </ul>
     </nav>
   );
